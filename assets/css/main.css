@@ -1,6 +1,9 @@
 /* MOBILE's FIRST - Custom properties */
 /* This classes will be then modified for bigger screens */
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Lora:ital@1&family=Open+Sans&family=Roboto+Mono&family=Ysabeau+Office&display=swap')
+body{
+font-family: 'Comfortaa', cursive;
+}
 a {
 	text-decoration-thickness: 1px;
 }
