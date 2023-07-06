@@ -1,6 +1,6 @@
 /* MOBILE's FIRST - Custom properties */
 /* This classes will be then modified for bigger screens */
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Lora:ital@1&family=Open+Sans&family=Roboto+Mono&family=Ysabeau+Office&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400;500&family=Comfortaa:wght@400;600;700&family=Lora&family=Montserrat&family=Noto+Sans+Display&family=Noto+Serif&family=Nunito:wght@300&family=Open+Sans&family=Oswald&family=Poppins:wght@400;600;700&family=Raleway:wght@400;500&family=Roboto+Mono&family=Roboto+Slab&family=Source+Sans+3&family=Titillium+Web&family=Work+Sans&display=swap');
 body{
 font-family: 'Comfortaa', cursive;
 }
